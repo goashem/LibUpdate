@@ -1,5 +1,7 @@
 # LibUpdate
 
+> **Not maintained.** This repository is archived and no longer maintained. It is kept for reference only.
+
 A dependency update checker that scans projects for outdated libraries and generates reports.
 
 ## Usage
